@@ -1,0 +1,20 @@
+body {
+  background: #FFF;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.hero-unit {
+  margin: 50px auto 0 auto;
+  width: 510px;
+}
+
+.browserupgrade {
+  margin: 0.2em 0;
+  background: #ccc;
+  color: #000;
+  padding: 0.2em 0;
+}
+
+.sc-swiper  .swiper-slide {
+  background-color: #FFF;
+}
